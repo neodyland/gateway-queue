@@ -19,7 +19,7 @@ jobs:
             rust-target: x86_64-unknown-linux-musl
             musl-target: x86_64-linux-musl
           - tag: armv8
-            arch: armv8
+            arch: arm64/v8
             rust-target: aarch64-unknown-linux-musl
             musl-target: aarch64-linux-musl
 
